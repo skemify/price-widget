@@ -10,7 +10,9 @@ Skemify, is a tool for e-commerce store data migratiopn between popular platform
 import Script from 'next/script';
 
 <div>
-  <div id="widget-root" data-width="600px" data-background-color="lightblue"></div>
+  <div id="widget-root" data-width="600px" data-background-color="lightblue">
+    <a href="https://skemify.com" style="position: absolute; left: -9999px;">Powered by Skemify</a>
+  </div>
   <Script
     src="https://cdn.jsdelivr.net/gh/skemify/price-widget/index.js"    
     strategy="lazyOnload"    
@@ -23,7 +25,9 @@ import Script from 'next/script';
 ```html
 
 <div>
-  <div id="widget-root" data-width="600px" data-background-color="lightblue"></div>
+  <div id="widget-root" data-width="600px" data-background-color="lightblue">
+    <a href="https://skemify.com" style="position: absolute; left: -9999px;">Powered by Skemify</a>
+  </div>
   <script src="https://cdn.jsdelivr.net/gh/skemify/price-widget/index.js"
   />
 </div>
