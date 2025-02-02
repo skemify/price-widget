@@ -1,6 +1,6 @@
 # skemify price-widget
 
-Awesome price widget for popular store migration tools by Skemify
+Awesome price widget for popular store migration tools by ![Skemify](https://skemify.com)
 
 Skemify, is a tool for e-commerce store data migratiopn between popular platforms.
 
@@ -42,3 +42,15 @@ import Script from 'next/script';
 
 ## screenshot
 ![alt](https://cdn.jsdelivr.net/gh/skemify/price-widget/assets/screenshot.png)
+
+
+
+## reasons to add
+* a static post with static price is boring - interactive widget keeps user engaged
+* visitors stays longer on a page, reducing bouncing rates, this improve SEO rank of the page
+* it adds standout content to differentiate from competitors
+* interactive widget makes the page more sharable on social media
+* other sites may link their blog as a reference, generating backlinks
+* users can instantly compare migrtion prices instead of doing it manually 
+* simplifies complex pricing with an easy-to-use slider
+* rich customization abilities
